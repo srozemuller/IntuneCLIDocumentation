@@ -1,253 +1,253 @@
 {
-  "/intuneCli/__docusaurus/debug-917": {
+  "/__docusaurus/debug-b29": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---intune-cli-docusaurus-debug-2-a-2-6fb"
+      "plugin": "plugin---docusaurus-debug-2-a-2-5ee"
     }
   },
-  "/intuneCli/__docusaurus/debug/config-2cf": {
+  "/__docusaurus/debug/config-0f3": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---intune-cli-docusaurus-debug-2-a-2-6fb"
+      "plugin": "plugin---docusaurus-debug-2-a-2-5ee"
     }
   },
-  "/intuneCli/__docusaurus/debug/content-756": {
+  "/__docusaurus/debug/content-671": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---intune-cli-docusaurus-debug-2-a-2-6fb"
+      "plugin": "plugin---docusaurus-debug-2-a-2-5ee"
     },
-    "allContent": "allContent---intune-cli-docusaurus-debug-content-246-12f"
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
   },
-  "/intuneCli/__docusaurus/debug/globalData-881": {
+  "/__docusaurus/debug/globalData-fe9": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---intune-cli-docusaurus-debug-2-a-2-6fb"
+      "plugin": "plugin---docusaurus-debug-2-a-2-5ee"
     }
   },
-  "/intuneCli/__docusaurus/debug/metadata-02d": {
+  "/__docusaurus/debug/metadata-2cc": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---intune-cli-docusaurus-debug-2-a-2-6fb"
+      "plugin": "plugin---docusaurus-debug-2-a-2-5ee"
     }
   },
-  "/intuneCli/__docusaurus/debug/registry-17a": {
+  "/__docusaurus/debug/registry-bb9": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---intune-cli-docusaurus-debug-2-a-2-6fb"
+      "plugin": "plugin---docusaurus-debug-2-a-2-5ee"
     }
   },
-  "/intuneCli/__docusaurus/debug/routes-db3": {
+  "/__docusaurus/debug/routes-bab": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---intune-cli-docusaurus-debug-2-a-2-6fb"
+      "plugin": "plugin---docusaurus-debug-2-a-2-5ee"
     }
   },
-  "/intuneCli/blog-277": {
+  "/blog-a2d": {
     "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---intune-cli-blog-766-bc2"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---intune-cli-blogf-4-f-4d4"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---intune-cli-blog-871-c77"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "content---intune-cli-blog-925-66c"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "metadata---intune-cli-bloga-6-b-124"
+    "metadata": "metadata---blogb-2-b-df1"
   },
-  "/intuneCli/blog/archive-aec": {
+  "/blog/archive-8d0": {
     "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "archive": "archive---intune-cli-blog-archive-147-c03"
+    "archive": "archive---blog-archiveb-2-f-393"
   },
-  "/intuneCli/blog/first-blog-post-67d": {
+  "/blog/first-blog-post-b5c": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
-    "content": "content---intune-cli-blog-first-blog-poste-27-589"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/intuneCli/blog/long-blog-post-b2c": {
+  "/blog/long-blog-post-d73": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
-    "content": "content---intune-cli-blog-long-blog-post-736-47a"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/intuneCli/blog/mdx-blog-post-5d7": {
+  "/blog/mdx-blog-post-9fb": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
-    "content": "content---intune-cli-blog-mdx-blog-post-593-aa2"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/intuneCli/blog/tags-1d0": {
+  "/blog/tags-cc1": {
     "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
-    "tags": "tags---intune-cli-blog-tags-729-a57"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
   },
-  "/intuneCli/blog/tags/docusaurus-ff6": {
+  "/blog/tags/docusaurus-eb5": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---intune-cli-blog-766-bc2"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---intune-cli-blogf-4-f-4d4"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "content---intune-cli-blog-871-c77"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "content---intune-cli-blog-925-66c"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "tag---intune-cli-blog-tags-docusauruscb-5-b16",
-    "listMetadata": "listMetadata---intune-cli-blog-tags-docusaurusd-40-571"
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
   },
-  "/intuneCli/blog/tags/facebook-91c": {
+  "/blog/tags/facebook-f9c": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---intune-cli-blog-766-bc2"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "tag": "tag---intune-cli-blog-tags-facebook-380-aa5",
-    "listMetadata": "listMetadata---intune-cli-blog-tags-facebookfbc-482"
+    "tag": "tag---blog-tags-facebook-031-c52",
+    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
   },
-  "/intuneCli/blog/tags/hello-f22": {
+  "/blog/tags/hello-b57": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---intune-cli-blog-766-bc2"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "content---intune-cli-blog-871-c77"
+        "content": "content---blog-871-381"
       }
     ],
-    "tag": "tag---intune-cli-blog-tags-hello-4-ca-2c7",
-    "listMetadata": "listMetadata---intune-cli-blog-tags-hello-10-f-7fa"
+    "tag": "tag---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
   },
-  "/intuneCli/blog/tags/hola-7fc": {
+  "/blog/tags/hola-343": {
     "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "content---intune-cli-blog-925-66c"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "tag---intune-cli-blog-tags-holaf-07-e9c",
-    "listMetadata": "listMetadata---intune-cli-blog-tags-hola-529-8ea"
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
   },
-  "/intuneCli/blog/welcome-c91": {
+  "/blog/welcome-ffb": {
     "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "plugin---intune-cli-blog-531-39b"
+      "plugin": "plugin---blog-531-b65"
     },
-    "sidebar": "sidebar---intune-cli-blog-814-0ae",
-    "content": "content---intune-cli-blog-welcomed-9-f-b3c"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/intuneCli/markdown-page-56c": {
+  "/markdown-page-1ba": {
     "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "plugin---intune-cli-markdown-page-99-c-aa7"
+      "plugin": "plugin---markdown-page-99-c-a92"
     },
-    "content": "content---intune-cli-markdown-page-393-cd4"
+    "content": "content---markdown-page-393-028"
   },
-  "/intuneCli/docs-347": {
+  "/docs-ab0": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---intune-cli-docs-7-b-9-6cd"
+      "plugin": "plugin---docs-7-b-9-b2a"
     }
   },
-  "/intuneCli/docs-cc6": {
+  "/docs-40b": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "version": "version---intune-cli-docs-935-8e1"
+    "version": "version---docs-935-398"
   },
-  "/intuneCli/docs-47e": {
+  "/docs-292": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/intuneCli/docs/category/tutorial---basics-fd6": {
+  "/docs/category/tutorial---basics-d44": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---intune-cli-docs-category-tutorial-basicsf-40-c5a"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-basicsea-8-8c8"
   },
-  "/intuneCli/docs/category/tutorial---extras-607": {
+  "/docs/category/tutorial---extras-f09": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "categoryGeneratedIndex": "categoryGeneratedIndex---intune-cli-docs-category-tutorial-extras-376-50f"
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-tutorial-extrasc-84-abc"
   },
-  "/intuneCli/docs/intro-a07": {
+  "/docs/intro-aed": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-intro-0-e-3-63a"
+    "content": "content---docs-intro-0-e-3-be1"
   },
-  "/intuneCli/docs/tutorial-basics/congratulations-74d": {
+  "/docs/tutorial-basics/congratulations-793": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-tutorial-basics-congratulations-822-afd"
+    "content": "content---docs-tutorial-basics-congratulations-822-958"
   },
-  "/intuneCli/docs/tutorial-basics/create-a-blog-post-23a": {
+  "/docs/tutorial-basics/create-a-blog-post-68e": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-tutorial-basics-create-a-blog-post-533-696"
+    "content": "content---docs-tutorial-basics-create-a-blog-post-533-e85"
   },
-  "/intuneCli/docs/tutorial-basics/create-a-document-9a1": {
+  "/docs/tutorial-basics/create-a-document-c2d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-tutorial-basics-create-a-document-1-e-4-401"
+    "content": "content---docs-tutorial-basics-create-a-document-1-e-4-078"
   },
-  "/intuneCli/docs/tutorial-basics/create-a-page-76c": {
+  "/docs/tutorial-basics/create-a-page-f44": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-tutorial-basics-create-a-page-5-c-8-04d"
+    "content": "content---docs-tutorial-basics-create-a-page-5-c-8-e19"
   },
-  "/intuneCli/docs/tutorial-basics/deploy-your-site-751": {
+  "/docs/tutorial-basics/deploy-your-site-e46": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-tutorial-basics-deploy-your-sitef-55-52a"
+    "content": "content---docs-tutorial-basics-deploy-your-sitef-55-a3f"
   },
-  "/intuneCli/docs/tutorial-basics/markdown-features-ce3": {
+  "/docs/tutorial-basics/markdown-features-4b7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-tutorial-basics-markdown-features-18-c-0f8"
+    "content": "content---docs-tutorial-basics-markdown-features-18-c-a79"
   },
-  "/intuneCli/docs/tutorial-extras/manage-docs-versions-909": {
+  "/docs/tutorial-extras/manage-docs-versions-fdd": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-tutorial-extras-manage-docs-versionsdff-d0f"
+    "content": "content---docs-tutorial-extras-manage-docs-versionsdff-6d4"
   },
-  "/intuneCli/docs/tutorial-extras/translate-your-site-3fe": {
+  "/docs/tutorial-extras/translate-your-site-2d7": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---intune-cli-docs-tutorial-extras-translate-your-sitee-44-e23"
+    "content": "content---docs-tutorial-extras-translate-your-sitee-44-ddf"
   },
-  "/intuneCli/-260": {
+  "/-1c6": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---intune-cli-markdown-page-99-c-aa7"
+      "plugin": "plugin---markdown-page-99-c-a92"
     },
-    "config": "config---intune-cli-5-e-9-e2a"
+    "config": "config---5-e-9-4f3"
   }
 }

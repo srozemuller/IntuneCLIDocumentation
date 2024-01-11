@@ -3,175 +3,175 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/intuneCli/__docusaurus/debug',
-    component: ComponentCreator('/intuneCli/__docusaurus/debug', '917'),
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', 'b29'),
     exact: true
   },
   {
-    path: '/intuneCli/__docusaurus/debug/config',
-    component: ComponentCreator('/intuneCli/__docusaurus/debug/config', '2cf'),
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '0f3'),
     exact: true
   },
   {
-    path: '/intuneCli/__docusaurus/debug/content',
-    component: ComponentCreator('/intuneCli/__docusaurus/debug/content', '756'),
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', '671'),
     exact: true
   },
   {
-    path: '/intuneCli/__docusaurus/debug/globalData',
-    component: ComponentCreator('/intuneCli/__docusaurus/debug/globalData', '881'),
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'fe9'),
     exact: true
   },
   {
-    path: '/intuneCli/__docusaurus/debug/metadata',
-    component: ComponentCreator('/intuneCli/__docusaurus/debug/metadata', '02d'),
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '2cc'),
     exact: true
   },
   {
-    path: '/intuneCli/__docusaurus/debug/registry',
-    component: ComponentCreator('/intuneCli/__docusaurus/debug/registry', '17a'),
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', 'bb9'),
     exact: true
   },
   {
-    path: '/intuneCli/__docusaurus/debug/routes',
-    component: ComponentCreator('/intuneCli/__docusaurus/debug/routes', 'db3'),
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', 'bab'),
     exact: true
   },
   {
-    path: '/intuneCli/blog',
-    component: ComponentCreator('/intuneCli/blog', '277'),
+    path: '/blog',
+    component: ComponentCreator('/blog', 'a2d'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/archive',
-    component: ComponentCreator('/intuneCli/blog/archive', 'aec'),
+    path: '/blog/archive',
+    component: ComponentCreator('/blog/archive', '8d0'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/first-blog-post',
-    component: ComponentCreator('/intuneCli/blog/first-blog-post', '67d'),
+    path: '/blog/first-blog-post',
+    component: ComponentCreator('/blog/first-blog-post', 'b5c'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/long-blog-post',
-    component: ComponentCreator('/intuneCli/blog/long-blog-post', 'b2c'),
+    path: '/blog/long-blog-post',
+    component: ComponentCreator('/blog/long-blog-post', 'd73'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/mdx-blog-post',
-    component: ComponentCreator('/intuneCli/blog/mdx-blog-post', '5d7'),
+    path: '/blog/mdx-blog-post',
+    component: ComponentCreator('/blog/mdx-blog-post', '9fb'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/tags',
-    component: ComponentCreator('/intuneCli/blog/tags', '1d0'),
+    path: '/blog/tags',
+    component: ComponentCreator('/blog/tags', 'cc1'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/tags/docusaurus',
-    component: ComponentCreator('/intuneCli/blog/tags/docusaurus', 'ff6'),
+    path: '/blog/tags/docusaurus',
+    component: ComponentCreator('/blog/tags/docusaurus', 'eb5'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/tags/facebook',
-    component: ComponentCreator('/intuneCli/blog/tags/facebook', '91c'),
+    path: '/blog/tags/facebook',
+    component: ComponentCreator('/blog/tags/facebook', 'f9c'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/tags/hello',
-    component: ComponentCreator('/intuneCli/blog/tags/hello', 'f22'),
+    path: '/blog/tags/hello',
+    component: ComponentCreator('/blog/tags/hello', 'b57'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/tags/hola',
-    component: ComponentCreator('/intuneCli/blog/tags/hola', '7fc'),
+    path: '/blog/tags/hola',
+    component: ComponentCreator('/blog/tags/hola', '343'),
     exact: true
   },
   {
-    path: '/intuneCli/blog/welcome',
-    component: ComponentCreator('/intuneCli/blog/welcome', 'c91'),
+    path: '/blog/welcome',
+    component: ComponentCreator('/blog/welcome', 'ffb'),
     exact: true
   },
   {
-    path: '/intuneCli/markdown-page',
-    component: ComponentCreator('/intuneCli/markdown-page', '56c'),
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '1ba'),
     exact: true
   },
   {
-    path: '/intuneCli/docs',
-    component: ComponentCreator('/intuneCli/docs', '347'),
+    path: '/docs',
+    component: ComponentCreator('/docs', 'ab0'),
     routes: [
       {
-        path: '/intuneCli/docs',
-        component: ComponentCreator('/intuneCli/docs', 'cc6'),
+        path: '/docs',
+        component: ComponentCreator('/docs', '40b'),
         routes: [
           {
-            path: '/intuneCli/docs',
-            component: ComponentCreator('/intuneCli/docs', '47e'),
+            path: '/docs',
+            component: ComponentCreator('/docs', '292'),
             routes: [
               {
-                path: '/intuneCli/docs/category/tutorial---basics',
-                component: ComponentCreator('/intuneCli/docs/category/tutorial---basics', 'fd6'),
+                path: '/docs/category/tutorial---basics',
+                component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/category/tutorial---extras',
-                component: ComponentCreator('/intuneCli/docs/category/tutorial---extras', '607'),
+                path: '/docs/category/tutorial---extras',
+                component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/intro',
-                component: ComponentCreator('/intuneCli/docs/intro', 'a07'),
+                path: '/docs/intro',
+                component: ComponentCreator('/docs/intro', 'aed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/intuneCli/docs/tutorial-basics/congratulations', '74d'),
+                path: '/docs/tutorial-basics/congratulations',
+                component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/intuneCli/docs/tutorial-basics/create-a-blog-post', '23a'),
+                path: '/docs/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/intuneCli/docs/tutorial-basics/create-a-document', '9a1'),
+                path: '/docs/tutorial-basics/create-a-document',
+                component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/intuneCli/docs/tutorial-basics/create-a-page', '76c'),
+                path: '/docs/tutorial-basics/create-a-page',
+                component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/intuneCli/docs/tutorial-basics/deploy-your-site', '751'),
+                path: '/docs/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/intuneCli/docs/tutorial-basics/markdown-features', 'ce3'),
+                path: '/docs/tutorial-basics/markdown-features',
+                component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/intuneCli/docs/tutorial-extras/manage-docs-versions', '909'),
+                path: '/docs/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/intuneCli/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/intuneCli/docs/tutorial-extras/translate-your-site', '3fe'),
+                path: '/docs/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -182,8 +182,8 @@ export default [
     ]
   },
   {
-    path: '/intuneCli/',
-    component: ComponentCreator('/intuneCli/', '260'),
+    path: '/',
+    component: ComponentCreator('/', '1c6'),
     exact: true
   },
   {
