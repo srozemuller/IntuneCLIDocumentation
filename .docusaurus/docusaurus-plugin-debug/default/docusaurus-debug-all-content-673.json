@@ -667,6 +667,7 @@
     ]
   },
   "docusaurus-plugin-debug": {},
+  "docusaurus-plugin-google-gtag": {},
   "docusaurus-theme-classic": {},
   "docusaurus-bootstrap-plugin": {},
   "docusaurus-mdx-fallback-plugin": {}

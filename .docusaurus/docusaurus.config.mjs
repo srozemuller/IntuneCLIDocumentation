@@ -5,7 +5,7 @@
  */
 export default {
   "title": "IntuneCLI",
-  "tagline": "The newest way to manage Intune in an automated way",
+  "tagline": "The newest way to control Intune in an automated way",
   "favicon": "img/favicon.ico",
   "url": "https://incandescent-otter-42bc32.netlify.app",
   "baseUrl": "/",
@@ -35,16 +35,20 @@ export default {
         },
         "theme": {
           "customCss": "./src/css/custom.css"
+        },
+        "gtag": {
+          "trackingID": "G-P9S67988NJ",
+          "anonymizeIP": true
         }
       }
     ]
   ],
   "themeConfig": {
-    "image": "img/docusaurus-social-card.jpg",
+    "image": "img/social-card.jpg",
     "navbar": {
       "title": "IntuneCli",
       "logo": {
-        "alt": "My Site Logo",
+        "alt": "IntuneCLI logo",
         "src": "img/intunecli_logo.svg"
       },
       "items": [
@@ -55,7 +59,7 @@ export default {
           "label": "Documentation"
         },
         {
-          "href": "https://github.com/facebook/docusaurus",
+          "href": "https://github.com/srozemuller/intuneAssistant",
           "label": "GitHub",
           "position": "right"
         }
