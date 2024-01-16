@@ -10,7 +10,7 @@ import React from 'react';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'IntuneCLI',
-  tagline: 'The newest way to manage Intune in an automated way',
+  tagline: 'The newest way to control Intune in an automated way',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
