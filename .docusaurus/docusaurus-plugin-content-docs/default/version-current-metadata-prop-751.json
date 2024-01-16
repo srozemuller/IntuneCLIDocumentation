@@ -11,140 +11,132 @@
     "tutorialSidebar": [
       {
         "type": "link",
-        "label": "Tutorial Intro",
-        "href": "/docs/intro",
-        "docId": "intro",
+        "label": "Getting started",
+        "href": "/docs/getting-started",
+        "docId": "getting-started",
         "unlisted": false
       },
       {
         "type": "category",
-        "label": "Tutorial - Basics",
+        "label": "Command reference",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
-            "label": "Create a Page",
-            "href": "/docs/tutorial-basics/create-a-page",
-            "docId": "tutorial-basics/create-a-page",
+            "label": "Global arguments",
+            "href": "/docs/command-reference/arguments",
+            "docId": "command-reference/arguments",
             "unlisted": false
           },
           {
-            "type": "link",
-            "label": "Create a Document",
-            "href": "/docs/tutorial-basics/create-a-document",
-            "docId": "tutorial-basics/create-a-document",
-            "unlisted": false
+            "type": "category",
+            "label": "Authentication",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Authentication",
+                "href": "/docs/command-reference/authentication/assignments",
+                "docId": "command-reference/authentication/assignments",
+                "unlisted": false
+              }
+            ],
+            "href": "/docs/category/authentication"
           },
           {
-            "type": "link",
-            "label": "Create a Blog Post",
-            "href": "/docs/tutorial-basics/create-a-blog-post",
-            "docId": "tutorial-basics/create-a-blog-post",
-            "unlisted": false
+            "type": "category",
+            "label": "Applications",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Dependendies",
+                "href": "/docs/command-reference/apps/dependencies/",
+                "docId": "command-reference/apps/dependencies/dependencies",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "List",
+                "href": "/docs/command-reference/apps/applications-list",
+                "docId": "command-reference/apps/applications-list",
+                "unlisted": false
+              }
+            ],
+            "href": "/docs/category/applications"
           },
           {
-            "type": "link",
-            "label": "Markdown Features",
-            "href": "/docs/tutorial-basics/markdown-features",
-            "docId": "tutorial-basics/markdown-features",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Deploy your site",
-            "href": "/docs/tutorial-basics/deploy-your-site",
-            "docId": "tutorial-basics/deploy-your-site",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Congratulations!",
-            "href": "/docs/tutorial-basics/congratulations",
-            "docId": "tutorial-basics/congratulations",
-            "unlisted": false
+            "type": "category",
+            "label": "Assignments",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Assignments",
+                "href": "/docs/command-reference/assignments/",
+                "docId": "command-reference/assignments/assignments",
+                "unlisted": false
+              },
+              {
+                "type": "link",
+                "label": "Groups",
+                "href": "/docs/command-reference/assignments/groups",
+                "docId": "command-reference/assignments/groups",
+                "unlisted": false
+              }
+            ],
+            "href": "/docs/category/assignments"
           }
         ],
-        "href": "/docs/category/tutorial---basics"
-      },
-      {
-        "type": "category",
-        "label": "Tutorial - Extras",
-        "collapsible": true,
-        "collapsed": true,
-        "items": [
-          {
-            "type": "link",
-            "label": "Manage Docs Versions",
-            "href": "/docs/tutorial-extras/manage-docs-versions",
-            "docId": "tutorial-extras/manage-docs-versions",
-            "unlisted": false
-          },
-          {
-            "type": "link",
-            "label": "Translate your site",
-            "href": "/docs/tutorial-extras/translate-your-site",
-            "docId": "tutorial-extras/translate-your-site",
-            "unlisted": false
-          }
-        ],
-        "href": "/docs/category/tutorial---extras"
+        "href": "/docs/category/command-reference"
       }
     ]
   },
   "docs": {
-    "intro": {
-      "id": "intro",
-      "title": "Tutorial Intro",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+    "command-reference/apps/applications-list": {
+      "id": "command-reference/apps/applications-list",
+      "title": "List",
+      "description": "Lists all applications from Intune.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/congratulations": {
-      "id": "tutorial-basics/congratulations",
-      "title": "Congratulations!",
-      "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+    "command-reference/apps/dependencies/dependencies": {
+      "id": "command-reference/apps/dependencies/dependencies",
+      "title": "Dependendies",
+      "description": "Retrieves all applications from Intune and shows the application dependency.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-blog-post": {
-      "id": "tutorial-basics/create-a-blog-post",
-      "title": "Create a Blog Post",
-      "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+    "command-reference/arguments": {
+      "id": "command-reference/arguments",
+      "title": "Global arguments",
+      "description": "The global arguments that are available at every command.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-document": {
-      "id": "tutorial-basics/create-a-document",
-      "title": "Create a Document",
-      "description": "Documents are groups of pages connected through:",
+    "command-reference/assignments/assignments": {
+      "id": "command-reference/assignments/assignments",
+      "title": "Assignments",
+      "description": "Retrieves all assignments in Intune. This can be at user, device or at group level. Exclusions are also shown.",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/create-a-page": {
-      "id": "tutorial-basics/create-a-page",
-      "title": "Create a Page",
-      "description": "Add Markdown or React files to src/pages to create a standalone page:",
+    "command-reference/assignments/groups": {
+      "id": "command-reference/assignments/groups",
+      "title": "Groups",
+      "description": "Shows all group assignments in Intune based on Entra ID group",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/deploy-your-site": {
-      "id": "tutorial-basics/deploy-your-site",
-      "title": "Deploy your site",
-      "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+    "command-reference/authentication/assignments": {
+      "id": "command-reference/authentication/assignments",
+      "title": "Authentication",
+      "description": "Options for authentication",
       "sidebar": "tutorialSidebar"
     },
-    "tutorial-basics/markdown-features": {
-      "id": "tutorial-basics/markdown-features",
-      "title": "Markdown Features",
-      "description": "Docusaurus supports Markdown and a few additional features.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/manage-docs-versions": {
-      "id": "tutorial-extras/manage-docs-versions",
-      "title": "Manage Docs Versions",
-      "description": "Docusaurus can manage multiple versions of your docs.",
-      "sidebar": "tutorialSidebar"
-    },
-    "tutorial-extras/translate-your-site": {
-      "id": "tutorial-extras/translate-your-site",
-      "title": "Translate your site",
-      "description": "Let's translate docs/intro.md to French.",
+    "getting-started": {
+      "id": "getting-started",
+      "title": "Getting started",
+      "description": "Welcome to The IntuneCLI. This CLI helps you managing Microsoft Intune environments.",
       "sidebar": "tutorialSidebar"
     }
   }

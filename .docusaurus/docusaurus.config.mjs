@@ -4,8 +4,8 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "IntuneCLI",
+  "tagline": "The newest way to manage Intune in an automated way",
   "favicon": "img/favicon.ico",
   "url": "https://incandescent-otter-42bc32.netlify.app",
   "baseUrl": "/",
@@ -42,22 +42,17 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "My Site",
+      "title": "IntuneCli",
       "logo": {
         "alt": "My Site Logo",
-        "src": "img/logo.svg"
+        "src": "img/intunecli_logo.svg"
       },
       "items": [
         {
           "type": "docSidebar",
           "sidebarId": "tutorialSidebar",
           "position": "left",
-          "label": "Tutorial"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
+          "label": "Documentation"
         },
         {
           "href": "https://github.com/facebook/docusaurus",
@@ -74,25 +69,25 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "Tutorial",
-              "to": "/docs/intro"
+              "label": "Getting Started",
+              "to": "/docs/getting-started"
+            },
+            {
+              "label": "Command overview",
+              "to": "/docs/category/command-reference"
             }
           ]
         },
         {
-          "title": "Community",
+          "title": "Socials",
           "items": [
             {
-              "label": "Stack Overflow",
-              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
-            },
-            {
-              "label": "Discord",
-              "href": "https://discordapp.com/invite/docusaurus"
+              "label": "LinkedIn",
+              "href": "https://linkedin.com/in/srozemuller"
             },
             {
               "label": "Twitter",
-              "href": "https://twitter.com/docusaurus"
+              "href": "https://twitter.com/sanderozemuller"
             }
           ]
         },
@@ -101,16 +96,16 @@ export default {
           "items": [
             {
               "label": "Blog",
-              "to": "/blog"
+              "to": "https://rozemuller.com"
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/srozemuller/intuneAssistant"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2024 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2024 IntuneCli, Sander Rozemuller."
     },
     "prism": {
       "theme": {

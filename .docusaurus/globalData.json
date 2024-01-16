@@ -8,61 +8,61 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "intro",
+          "mainDocId": "getting-started",
           "docs": [
             {
-              "id": "intro",
-              "path": "/docs/intro",
+              "id": "command-reference/apps/applications-list",
+              "path": "/docs/command-reference/apps/applications-list",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/congratulations",
-              "path": "/docs/tutorial-basics/congratulations",
+              "id": "command-reference/apps/dependencies/dependencies",
+              "path": "/docs/command-reference/apps/dependencies/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-blog-post",
-              "path": "/docs/tutorial-basics/create-a-blog-post",
+              "id": "command-reference/arguments",
+              "path": "/docs/command-reference/arguments",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-document",
-              "path": "/docs/tutorial-basics/create-a-document",
+              "id": "command-reference/assignments/assignments",
+              "path": "/docs/command-reference/assignments/",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/create-a-page",
-              "path": "/docs/tutorial-basics/create-a-page",
+              "id": "command-reference/assignments/groups",
+              "path": "/docs/command-reference/assignments/groups",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/deploy-your-site",
-              "path": "/docs/tutorial-basics/deploy-your-site",
+              "id": "command-reference/authentication/assignments",
+              "path": "/docs/command-reference/authentication/assignments",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-basics/markdown-features",
-              "path": "/docs/tutorial-basics/markdown-features",
+              "id": "getting-started",
+              "path": "/docs/getting-started",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/manage-docs-versions",
-              "path": "/docs/tutorial-extras/manage-docs-versions",
+              "id": "/category/command-reference",
+              "path": "/docs/category/command-reference",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "tutorial-extras/translate-your-site",
-              "path": "/docs/tutorial-extras/translate-your-site",
+              "id": "/category/authentication",
+              "path": "/docs/category/authentication",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---basics",
-              "path": "/docs/category/tutorial---basics",
+              "id": "/category/applications",
+              "path": "/docs/category/applications",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/tutorial---extras",
-              "path": "/docs/category/tutorial---extras",
+              "id": "/category/assignments",
+              "path": "/docs/category/assignments",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,8 +70,8 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/docs/intro",
-                "label": "intro"
+                "path": "/docs/getting-started",
+                "label": "getting-started"
               }
             }
           }

@@ -1,0 +1,24 @@
+{
+  "id": "command-reference/assignments/assignments-groups",
+  "title": "Assignments by group",
+  "description": "safsafs",
+  "source": "@site/docs/command-reference/assignments/assignments-groups.md",
+  "sourceDirName": "command-reference/assignments",
+  "slug": "/command-reference/assignments/assignments-groups",
+  "permalink": "/docs/command-reference/assignments/assignments-groups",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/command-reference/assignments/assignments-groups.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assignments",
+    "permalink": "/docs/category/assignments"
+  },
+  "next": {
+    "title": "Assignments",
+    "permalink": "/docs/command-reference/assignments/"
+  }
+}

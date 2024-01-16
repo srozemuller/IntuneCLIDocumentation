@@ -1,0 +1,16 @@
+{
+  "title": "Command reference",
+  "description": "Overview of all commands and their options",
+  "slug": "/category/command-reference-1",
+  "permalink": "/docs/category/command-reference-1",
+  "navigation": {
+    "previous": {
+      "title": "Command reference",
+      "permalink": "/docs/category/command-reference"
+    },
+    "next": {
+      "title": "Assignments",
+      "permalink": "/docs/command-reference/assignments/assignments-groups"
+    }
+  }
+}

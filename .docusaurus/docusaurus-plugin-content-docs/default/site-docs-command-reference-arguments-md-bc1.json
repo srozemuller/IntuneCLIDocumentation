@@ -1,0 +1,27 @@
+{
+  "id": "command-reference/arguments",
+  "title": "Global arguments",
+  "description": "The global arguments that are available at every command.",
+  "source": "@site/docs/command-reference/arguments.md",
+  "sourceDirName": "command-reference",
+  "slug": "/command-reference/arguments",
+  "permalink": "/docs/command-reference/arguments",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/command-reference/arguments.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Command reference",
+    "permalink": "/docs/category/command-reference"
+  },
+  "next": {
+    "title": "Authentication",
+    "permalink": "/docs/category/authentication"
+  }
+}

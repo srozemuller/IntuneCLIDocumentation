@@ -1,0 +1,27 @@
+{
+  "id": "command-reference/assignments/index",
+  "title": "Assignments",
+  "description": "The global assignemtns",
+  "source": "@site/docs/command-reference/assignments/index.md",
+  "sourceDirName": "command-reference/assignments",
+  "slug": "/command-reference/assignments/",
+  "permalink": "/docs/command-reference/assignments/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/command-reference/assignments/index.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Assignments",
+    "permalink": "/docs/category/assignments"
+  },
+  "next": {
+    "title": "Groups",
+    "permalink": "/docs/command-reference/assignments/groups"
+  }
+}

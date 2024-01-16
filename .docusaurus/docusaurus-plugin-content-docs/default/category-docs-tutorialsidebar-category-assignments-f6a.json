@@ -1,0 +1,16 @@
+{
+  "title": "Assignments",
+  "description": "Overview of all commands and their options",
+  "slug": "/category/assignments",
+  "permalink": "/docs/category/assignments",
+  "navigation": {
+    "previous": {
+      "title": "List",
+      "permalink": "/docs/command-reference/apps/applications-list"
+    },
+    "next": {
+      "title": "Assignments",
+      "permalink": "/docs/command-reference/assignments/"
+    }
+  }
+}

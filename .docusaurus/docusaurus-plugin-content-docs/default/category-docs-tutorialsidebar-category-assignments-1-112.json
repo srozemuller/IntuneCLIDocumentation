@@ -1,0 +1,16 @@
+{
+  "title": "Assignments",
+  "description": "Overview of all commands and their options",
+  "slug": "/category/assignments-1",
+  "permalink": "/docs/category/assignments-1",
+  "navigation": {
+    "previous": {
+      "title": "Groups",
+      "permalink": "/docs/command-reference/assignments/groups"
+    },
+    "next": {
+      "title": "Assignments",
+      "permalink": "/docs/command-reference/authentication/assignments"
+    }
+  }
+}

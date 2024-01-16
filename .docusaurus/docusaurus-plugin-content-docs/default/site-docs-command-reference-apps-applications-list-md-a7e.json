@@ -1,0 +1,27 @@
+{
+  "id": "command-reference/apps/applications-list",
+  "title": "List",
+  "description": "Lists all applications from Intune.",
+  "source": "@site/docs/command-reference/apps/applications-list.md",
+  "sourceDirName": "command-reference/apps",
+  "slug": "/command-reference/apps/applications-list",
+  "permalink": "/docs/command-reference/apps/applications-list",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/command-reference/apps/applications-list.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dependendies",
+    "permalink": "/docs/command-reference/apps/dependencies/"
+  },
+  "next": {
+    "title": "Assignments",
+    "permalink": "/docs/category/assignments"
+  }
+}

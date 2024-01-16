@@ -1,0 +1,20 @@
+{
+  "id": "tutorial-extras/img/assignments-overview",
+  "title": "assignments-overview",
+  "description": "",
+  "source": "@site/docs/tutorial-extras/img/assignments-overview.md",
+  "sourceDirName": "tutorial-extras/img",
+  "slug": "/tutorial-extras/img/assignments-overview",
+  "permalink": "/docs/tutorial-extras/img/assignments-overview",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-extras/img/assignments-overview.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  }
+}

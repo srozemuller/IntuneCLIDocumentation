@@ -99,79 +99,79 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'ab0'),
+    component: ComponentCreator('/docs', '448'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '40b'),
+        component: ComponentCreator('/docs', '126'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '292'),
+            component: ComponentCreator('/docs', '844'),
             routes: [
               {
-                path: '/docs/category/tutorial---basics',
-                component: ComponentCreator('/docs/category/tutorial---basics', 'd44'),
+                path: '/docs/category/applications',
+                component: ComponentCreator('/docs/category/applications', 'c9a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/tutorial---extras',
-                component: ComponentCreator('/docs/category/tutorial---extras', 'f09'),
+                path: '/docs/category/assignments',
+                component: ComponentCreator('/docs/category/assignments', '934'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'aed'),
+                path: '/docs/category/authentication',
+                component: ComponentCreator('/docs/category/authentication', '5bd'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/tutorial-basics/congratulations', '793'),
+                path: '/docs/category/command-reference',
+                component: ComponentCreator('/docs/category/command-reference', 'f02'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-blog-post', '68e'),
+                path: '/docs/command-reference/apps/applications-list',
+                component: ComponentCreator('/docs/command-reference/apps/applications-list', '133'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-document', 'c2d'),
+                path: '/docs/command-reference/apps/dependencies/',
+                component: ComponentCreator('/docs/command-reference/apps/dependencies/', 'ae5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/tutorial-basics/create-a-page', 'f44'),
+                path: '/docs/command-reference/arguments',
+                component: ComponentCreator('/docs/command-reference/arguments', '181'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/tutorial-basics/deploy-your-site', 'e46'),
+                path: '/docs/command-reference/assignments/',
+                component: ComponentCreator('/docs/command-reference/assignments/', 'e49'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/tutorial-basics/markdown-features', '4b7'),
+                path: '/docs/command-reference/assignments/groups',
+                component: ComponentCreator('/docs/command-reference/assignments/groups', '7e6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/tutorial-extras/manage-docs-versions', 'fdd'),
+                path: '/docs/command-reference/authentication/assignments',
+                component: ComponentCreator('/docs/command-reference/authentication/assignments', '610'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/tutorial-extras/translate-your-site', '2d7'),
+                path: '/docs/getting-started',
+                component: ComponentCreator('/docs/getting-started', 'fad'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

@@ -4,12 +4,12 @@
   "permalink": "/docs/category/tutorial---extras",
   "navigation": {
     "previous": {
-      "title": "Congratulations!",
-      "permalink": "/docs/tutorial-basics/congratulations"
+      "title": "Getting started",
+      "permalink": "/docs/getting-started"
     },
     "next": {
-      "title": "Manage Docs Versions",
-      "permalink": "/docs/tutorial-extras/manage-docs-versions"
+      "title": "Assignments",
+      "permalink": "/docs/commandlets/assignments/assignments-overview"
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "title": "Command reference",
+  "description": "Overview of all commands and their options",
+  "slug": "/category/command-reference",
+  "permalink": "/docs/category/command-reference",
+  "navigation": {
+    "previous": {
+      "title": "Getting started",
+      "permalink": "/docs/getting-started"
+    },
+    "next": {
+      "title": "Global arguments",
+      "permalink": "/docs/command-reference/arguments"
+    }
+  }
+}

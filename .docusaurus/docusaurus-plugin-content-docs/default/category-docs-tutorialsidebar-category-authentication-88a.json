@@ -1,0 +1,16 @@
+{
+  "title": "Authentication",
+  "description": "Overview of all commands and their options",
+  "slug": "/category/authentication",
+  "permalink": "/docs/category/authentication",
+  "navigation": {
+    "previous": {
+      "title": "Global arguments",
+      "permalink": "/docs/command-reference/arguments"
+    },
+    "next": {
+      "title": "Authentication",
+      "permalink": "/docs/command-reference/authentication/assignments"
+    }
+  }
+}

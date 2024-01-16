@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Getting started',
+    Svg: require('@site/static/img/undraw_outer_space_re_u9vd.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        The IntuneCli is designed to easy get Intune in control from an automation perspective. Go the <code><a href="/docs/getting-started" target="_blank">get started page</a></code> to start quickly.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Documentation',
+    Svg: require('@site/static/img/undraw_education_f8ru.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       The IntuneCli has a lot of options. All needed information to use the IntuneCli is stored under the <code><a href="/docs/getting-started" target="_blank">documentation</a></code> directory.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Contribute',
+    Svg: require('@site/static/img/undraw_pair_programming_re_or4x.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Feel free to collaborate with this project. The project is stored in <code><a href="https://github.com/srozemuller/IntuneAssistant" target="_blank">GitHub</a></code>. Just add new features using the <code><a href="https://github.com/srozemuller/IntuneAssistant/issues/new/choose" target="_blank">Issues</a></code> page.
       </>
     ),
   },

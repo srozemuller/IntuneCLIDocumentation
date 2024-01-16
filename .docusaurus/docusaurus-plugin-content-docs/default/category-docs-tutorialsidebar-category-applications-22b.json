@@ -1,0 +1,16 @@
+{
+  "title": "Applications",
+  "description": "The application context of the IntuneCLI",
+  "slug": "/category/applications",
+  "permalink": "/docs/category/applications",
+  "navigation": {
+    "previous": {
+      "title": "Authentication",
+      "permalink": "/docs/command-reference/authentication/assignments"
+    },
+    "next": {
+      "title": "Dependendies",
+      "permalink": "/docs/command-reference/apps/dependencies/"
+    }
+  }
+}
