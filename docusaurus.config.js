@@ -65,11 +65,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/docusaurus-social-card.jpg',
+      image: 'img/social-card.jpg',
       navbar: {
         title: 'IntuneCli',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'IntuneCLI logo',
           src: 'img/intunecli_logo.svg',
         },
         items: [
@@ -80,7 +80,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/srozemuller/intuneAssistant',
             label: 'GitHub',
             position: 'right',
           },
