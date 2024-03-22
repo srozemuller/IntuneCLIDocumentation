@@ -25,15 +25,15 @@ Commands:
 ## Login
 This command opens a brower to login interactively to Entra ID
 ```bash
-intuneCli login
+intuneCli auth login
 ```
 ## Logout
 Logs out all current logged in users and clears the tokens from the cache.
 ```bash
-intuneCli logout
+intuneCli auth logout
 ```
 ## Show
 Shows the current logged in user and context
 ```bash
-intuneCli show
+intuneCli auth show
 ```
