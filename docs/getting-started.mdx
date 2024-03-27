@@ -12,6 +12,19 @@ In any way you first need to install at least `dotnet 7.0`. To install dotnet us
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
+:::danger
+
+Version  **2.0.0** relies on DotNet version 8.0.102. You have to update your DotNet version to 8.0.102 first before updating the IntuneCLI.
+Use the commands below to update your DotNet version.
+
+```shell
+    winget source add winget
+    winget install --id Microsoft.DotNet.SDK.8 --source winget --log C:\Temp\install.log
+```
+:::
+
+
+
 ### Install dotnet 7 sdk
 <Tabs>
   <TabItem value="windows" label="Windows" default>
